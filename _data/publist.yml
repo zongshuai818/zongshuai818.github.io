@@ -5,7 +5,7 @@
   link:
     url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.115416
     display:  
-  highlight: 0
+  highlight: 1
   news2:
 
 - title: "Modeling Green's functions measurements with two-tip scanning tunneling microscopy"
