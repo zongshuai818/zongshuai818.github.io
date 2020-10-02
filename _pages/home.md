@@ -1,12 +1,12 @@
 ---
-title: "Allan Lab - Home"
+title: "Lanco Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Lanco Lab at Peking University."
 sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+The Language Computing and Machine Learning Group is affiliated with Institute of Computational Linguistics (Key Laboratory of Computational Linguistics), School of Electronics Engineering and Computer Science, Peking University. The group is founded in 2013 and is led by Xu Sun.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
