@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Team"
+title: "Lanco Lab - Team"
 layout: gridlay
 excerpt: "Allan Lab: Team members"
 sitemap: false

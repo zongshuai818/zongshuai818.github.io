@@ -39,5 +39,5 @@ The Language Computing and Machine Learning Group is affiliated with Institute o
 Based on machine learning technology and deep learning technology, we study Machine Learning for Language (including Deep Neural Networks, Learning for Knowledge Graphs, Learning for NLG and Learning for Multi-Modal (especially visual) NLP) and Natural Language Generation (including Machine Translation, Summarization, Dialogue, Multi-Modal (especially visual) NLG).
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_PKU.jpg" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_PKU.png" style="width: 120px">
 </figure>
