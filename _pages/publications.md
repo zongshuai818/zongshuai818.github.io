@@ -1,7 +1,7 @@
 ---
 title: "Lanco Lab - Publications"
 layout: gridlay
-excerpt: "Lanco Lab -- Publications."
+excerpt: "Lanco Lab: Publications."
 sitemap: false
 permalink: /publications/
 ---

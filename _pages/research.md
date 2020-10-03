@@ -1,9 +1,9 @@
 ---
 title: "Lanco Lab - Teaching"
 layout: textlay
-excerpt: "Lanco Lab -- Teaching"
+excerpt: "Lanco Lab: Teaching"
 sitemap: false
-permalink: /Teaching/
+permalink: /research/
 ---
 
 # Teaching Resource
