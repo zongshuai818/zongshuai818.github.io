@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-The Language Computing and Machine Learning Group is affiliated with Institute of Computational Linguistics (Key Laboratory of Computational Linguistics), School of Electronics Engineering and Computer Science, Peking University. The group is founded in 2013 and is led by Xu Sun.
+The Language Computing and Machine Learning Group is affiliated with Institute of Computational Linguistics (Key Laboratory of Computational Linguistics), School of Electronics Engineering and Computer Science, Peking University. The group is founded in 2013 and is led by [Xu Sun](https://xusun.org/).
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
