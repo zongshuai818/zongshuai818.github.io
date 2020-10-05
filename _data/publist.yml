@@ -3,27 +3,7 @@
   description: 
   authors: Xin Jia, Wenjie Zhou, Xu SUN and Yunfang Wu
   link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.115416
+    url: https://www.aclweb.org/anthology/2020.acl-main.545/
     display:  
-  highlight: 1
-  news2:
-
-- title: "Modeling Green's functions measurements with two-tip scanning tunneling microscopy"
-  image: TBG_ARPES.png
-  description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
-  authors: M Leeuwenhoek, S Gröblacher, MP Allan, YaM Blanter
-  link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.115416
-    display:  PRB 102, 115416
-  highlight: 0
-  news2:
-
-- title: "Mapping local heterogeneity in open twisted bilayer graphene devices"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: T Benschop*, TA de Jong*, P Stepanov*, Xiaobo Lu, V Stalman, SJ van der Molen, DK Efetov, MP Allan
-  link:
-    url: https://arxiv.org/abs/2008.13766
-    display:  arXiv:2008.13766
   highlight: 1
   news2:
