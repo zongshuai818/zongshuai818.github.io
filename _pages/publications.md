@@ -9,8 +9,6 @@ permalink: /publications/
 
 # [Publications](https://xusun.org/publication.htm)
 
-<!-- 
-
 ## Group highlights
 
 (For a full list see [below](#full-list) or go to Google Scholar.
@@ -61,4 +59,4 @@ permalink: /publications/
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
-{% endfor %} -->
+{% endfor %}
