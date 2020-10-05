@@ -8,8 +8,6 @@ permalink: /team/
 
 # Group Members
 
-Test_del
-
 Jump to  [Advisor](#Advisor),  [Ph.D. student](#Ph.D. student), [Master student](#Master-student), [Visiting student](#Visiting-student), [Undergraduate student](#Undergraduate-student), [Graduated student](#Graduated-student).
 
 ## Advisor
