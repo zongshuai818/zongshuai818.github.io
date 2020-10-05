@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
-:Jump to  [Advisor](#Advisor),  [Ph.D. student](#Ph.D.-student), [Master student](#Master-student), [Visiting student](#Visiting-student), [Undergraduate student](#Undergraduate-student), [Graduated student](#Recently-graduated-student).
+<!--Jump to  [Advisor](#Advisor),  [Ph.D. student](#Ph.D.-student), [Master student](#Master-student), [Visiting student](#Visiting-student), [Undergraduate student](#Undergraduate-student), [Graduated student](#Recently-graduated-student).-->
 
 ## Advisor
 {% assign number_printed = 0 %}
