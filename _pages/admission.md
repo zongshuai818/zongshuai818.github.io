@@ -1,9 +1,9 @@
 ---
-title: "Lanco Admission - Team"
+title: "Lanco Lab - Admission"
 layout: gridlay
 excerpt: "Lanco Lab: Admission"
 sitemap: false
-permalink: /Admission/
+permalink: /admission/
 ---
 
 # Admissions Information
