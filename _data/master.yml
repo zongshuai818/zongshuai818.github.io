@@ -8,44 +8,45 @@
 #  education3:
 #  education4:
 
-- name: Rebecca Gharibaan
+- name: Deli Chen [(陈德里)](https://victorchen96.github.io/chendeli.io/)
   photo: rock.jpg
-  info: Master student
-  email: R.Gharibaan@student.tudelft.nl
+  info: 
+  email: 
   number_educ: 0
   education1:
 
-- name: Rémi Claessen
+- name: Liang Zhao [(赵亮)](https://zhao1iang.github.io/)
   photo: rock.jpg
-  info: Master student
-  email: remi.c60000@gmail.com
+  info: 
+  email: 
   number_educ: 0
   education1:
 
-- name: Maialen Larrazabal Ortego
+- name: Ruixuan Luo​ [(罗睿轩)](https://luoruixuan.github.io/)
   photo: rock.jpg
-  info: Master student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
+  info: 
+  email: 
   number_educ: 0
   education1:
 
-- name: Sergio Barquero Pierantoni
+- name: Lei Li [(李磊)](http://leili.site/)
   photo: rock.jpg
-  info: Master student
-  email: s.barquero.pierantoni@umail.leidenuniv.nl
+  info: 
+  email: 
   number_educ: 0
   education1:
 
-- name: Amber Mozes
-  photo: rock.jpg
-  info: Master student
-  email: A.Mozes@student.tudelft.nl
-  number_educ: 0
-  education1:
+# - name: 
+#   photo: rock.jpg
+#   info: 
+#   email: 
+#   number_educ: 0
+#   education1:
 
-- name: Evert Stolte
-  photo: rock.jpg
-  info: Master student
-  email: evert_3aug@hotmail.com
-  number_educ: 0
-  education1:
+
+
+
+
+
+
+

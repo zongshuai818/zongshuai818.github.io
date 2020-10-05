@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
-Jump to  [Advisor](#Advisor),  [Ph.D. student](#Ph.D. student), [Master student](#Master-student), [Visiting student](#Visiting-student), [Undergraduate student](#Undergraduate-student), [Graduated student](#Graduated-student).
+Jump to  [Advisor](#Advisor),  [Ph.D. student](#Ph.D.-student), [Master student](#Master-student), [Visiting student](#Visiting-student), [Undergraduate student](#Undergraduate-student), [Graduated student](#Recently-graduated-student).
 
 ## Advisor
 {% assign number_printed = 0 %}
@@ -71,8 +71,6 @@ Jump to  [Advisor](#Advisor),  [Ph.D. student](#Ph.D. student), [Master student]
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
-
 
 
 ## Ph.D. student
@@ -142,7 +140,7 @@ Jump to  [Advisor](#Advisor),  [Ph.D. student](#Ph.D. student), [Master student]
 
 <div class="col-sm-6 clearfix">
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
+  <!-- <i>{{ member.info }}<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -248,7 +246,7 @@ Jump to  [Advisor](#Advisor),  [Ph.D. student](#Ph.D. student), [Master student]
 
 <div class="col-sm-6 clearfix">
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
+  <i>{{ member.info }}</i>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -289,7 +287,7 @@ Jump to  [Advisor](#Advisor),  [Ph.D. student](#Ph.D. student), [Master student]
 </div>
 {% endif %}
 
-## Graduated student
+## Recently graduated student
 {% assign number_printed = 0 %}
 {% for member in site.data.graduated %}
 
@@ -301,7 +299,7 @@ Jump to  [Advisor](#Advisor),  [Ph.D. student](#Ph.D. student), [Master student]
 
 <div class="col-sm-6 clearfix">
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
+  <i>{{ member.info }}</i>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
